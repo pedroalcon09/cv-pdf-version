@@ -316,8 +316,8 @@ p {
 
 @media (min-width: 1024px) {
   img {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     padding: 40px;
   }
 
@@ -326,33 +326,48 @@ p {
   }
 
   #contacts {
-    width: 265px;
-    height: 150px;
-    font-size: larger;
-  }
-
-  .linkedin-li a {
-    font-size: 18px;
+    width: 400px;
+    height: 275px;
+    font-size: 30px;
   }
 
   .habilidades-diversas {
-    padding: 30px;
+    height: 60vh;
+    padding: 40px;
+    height: fit-content;
+  }
+
+  .habilidades-diversas h3 {
+    font-size: 35px;
+  }
+
+  .habilidades-diversas h4 {
+    font-size: 23px;
+  }
+
+  .linkedin-li a {
+    font-size: 26px;
   }
 
   #music,
   #code,
   #language {
-    padding: 15px;
+    padding: 35px;
+  }
+
+  h1 {
+    font-size: 45px;
   }
 
   h2 {
-    font-size: 25px;
-    margin-top: 31px;
+    font-size: 45px;
+    text-align: center;
+    margin: 15px 0px;
     padding: 0px;
   }
 
   h3 {
-    font-size: 23px;
+    font-size: 30px;
   }
   p {
     font-size: 25px;
@@ -360,6 +375,8 @@ p {
   }
 
   .infos-left h2 {
+    text-align: left;
+    margin-left: 20px;
     font-size: 35px;
   }
 
@@ -367,8 +384,17 @@ p {
     margin: 45px 15px;
   }
 
-  .date {
-    font-size: 15px;
+  .infos-left .date {
+    font-size: 25px;
+  }
+
+  .infos-left li h3 {
+    font-size: 37px;
+    margin: 10px 0px;
+  }
+
+  .infos-left li p {
+    font-size: 29px;
   }
 }
 
