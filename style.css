@@ -338,7 +338,7 @@ p {
 
   .habilidades-diversas {
     height: 60vh;
-    padding: 30px;
+    padding: 30px 20px;
     height: fit-content;
   }
 
@@ -357,7 +357,7 @@ p {
   #music,
   #code,
   #language {
-    padding: 35px;
+    padding: 15px;
   }
 
   h1 {
