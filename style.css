@@ -331,6 +331,11 @@ p {
     font-size: 30px;
   }
 
+  #nome-completo {
+    font-size: 55px;
+    width: 100%;
+  }
+
   .habilidades-diversas {
     height: 60vh;
     padding: 30px;
@@ -360,9 +365,9 @@ p {
   }
 
   h2 {
-    font-size: 45px;
-    text-align: center;
-    margin: 15px 0px;
+    font-size: 39px;
+    width: 100%;
+    margin: 10px 0px;
     padding: 0px;
   }
 
@@ -377,7 +382,7 @@ p {
   .infos-left h2 {
     text-align: left;
     margin-left: 20px;
-    font-size: 35px;
+    font-size: 40px;
   }
 
   .infos-left li {
@@ -389,7 +394,7 @@ p {
   }
 
   .infos-left li h3 {
-    font-size: 37px;
+    font-size: 32px;
     margin: 10px 0px;
   }
 
