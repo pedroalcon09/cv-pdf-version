@@ -383,19 +383,21 @@ p {
 
   .infos-left h2 {
     margin-top: 40px;
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .infos-left li {
-    margin: 35px 15px;
+    margin: 35px 10px;
   }
 
   .infos-left p {
-    font-size: 25px;
+    font-size: 30px;
+    line-height: 40px;
   }
 
   .infos-left li h3 {
-    font-size: 30px;
+    font-size: 35px;
+    margin: 2px 0px;
   }
 
   .infos-left .date {
@@ -404,5 +406,9 @@ p {
 
   .habilidades-diversas h4 {
     font-size: 20px;
+  }
+
+  .habilidades-diversas h2 {
+    margin-top: 0px;
   }
 }
