@@ -65,7 +65,7 @@ header {
   font-size: 30px;
 }
 
-img {
+#photo-container img {
   width: 150px;
   height: 150px;
   border-radius: 100%;
@@ -225,7 +225,7 @@ p {
 }
 
 #react {
-  width: 53px;
+  width: 75px;
 }
 
 #javascript {
@@ -233,19 +233,19 @@ p {
 }
 
 #css {
-  width: 60px;
+  width: 65px;
 }
 
 #html {
-  width: 40px;
+  width: 60px;
 }
 
 #gitHub {
-  width: 30px;
+  width: 35px;
 }
 
 #ableton {
-  width: 62px;
+  width: 65px;
 }
 
 #proTools {
@@ -253,7 +253,7 @@ p {
 }
 
 #violao {
-  width: 40px;
+  width: 50px;
 }
 
 #gravacao {
@@ -269,7 +269,7 @@ p {
 }
 
 #english {
-  width: 110px;
+  width: 150px;
 }
 
 #french {
@@ -315,7 +315,7 @@ p {
 }
 
 @media (min-width: 1024px) {
-  img {
+  #photo-container img {
     width: 300px;
     height: 300px;
     padding: 40px;
@@ -394,12 +394,12 @@ p {
   }
 
   .infos-left li h3 {
-    font-size: 32px;
+    font-size: 26px;
     margin: 10px 0px;
   }
 
   .infos-left li p {
-    font-size: 29px;
+    font-size: 23px;
   }
 }
 
