@@ -386,13 +386,13 @@ p {
     margin-left: -4px;
   }
 
-  #ts-icon {
-    margin-right: 5px;
-  }
-
   .habilidades-diversas #orm-icon i {
     margin: 0px;
     font-size: 17px;
+  }
+
+  #ts-icon {
+    margin-right: 5px;
   }
 
   .linkedin-li a {
