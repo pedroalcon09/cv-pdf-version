@@ -409,6 +409,10 @@ p {
     width: 60%;
   }
 
+  .habilidades-diversas h2 {
+    margin: 5px 0px;
+  }
+
   .infos-right h2 {
     margin-top: 40px;
     font-size: 35px;
