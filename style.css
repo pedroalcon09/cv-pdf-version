@@ -361,7 +361,14 @@ p {
   #about {
     font-size: 25px;
     margin-left: 18px;
-    margin-bottom: 30px;
+  }
+
+  #about-me h2 {
+    margin: 20px 0px;
+  }
+
+  #about-me p {
+    margin: 30px 0px 50px 0px;
   }
 
   #education ul li {
@@ -393,6 +400,10 @@ p {
 
   .infos-right li p {
     font-size: 24px;
+  }
+
+  #jobs li {
+    margin: 30px 10px;
   }
 }
 
