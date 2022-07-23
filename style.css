@@ -38,31 +38,7 @@ header {
   background-color: lightgrey;
   background-color: rgba(5, 5, 5, 0.5);
   color: aliceblue;
-}
-
-.portfolio {
-  padding: 25px;
-  margin-bottom: 30px;
-  font-size: 25px;
-  border: 3px solid transparent;
-  text-decoration: none;
-  cursor: pointer;
-  background-color: rgba(160, 194, 248, 0.5);
-  border-radius: 10px;
-  color: black;
-  font-weight: 900;
-  transition: 0.5s;
-  width: 200px;
-  height: 55px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
-
-.portfolio:hover {
-  background-color: rgba(160, 194, 248);
-  border-color: whitesmoke;
-  font-size: 30px;
+  width: 2500px;
 }
 
 #photo-container img {
@@ -214,7 +190,6 @@ p {
 
 @media (min-width: 667px) {
   header {
-    padding: 30px;
   }
 
   body {
@@ -395,7 +370,7 @@ p {
 
   .infos-right li h3 {
     font-size: 26px;
-    margin: 5px 0px;
+    margin: 13px 0px;
   }
 
   .infos-right li p {
