@@ -417,11 +417,11 @@ p {
   }
 
   .habilidades-diversas {
-    width: 60%;
+    width: 48%;
   }
 
   .habilidades-diversas h2 {
-    margin: 5px 0px;
+    margin: 0px 0px;
   }
 
   .infos-right h2 {
@@ -448,7 +448,7 @@ p {
   }
 
   .habilidades-diversas h4 {
-    font-size: 20px;
+    font-size: 23px;
   }
 
   .habilidades-diversas h2 {
